@@ -1,0 +1,21 @@
+.square {
+  height: 50px;
+  width: 50px;
+  vertical-align: top;
+}
+
+.board {
+  text-align: center;
+}
+
+.navbar {
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+  background-color: #E5E5E5;
+  font-weight: bold;
+}
+
+.result {
+  text-align: center;
+}
